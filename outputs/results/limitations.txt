@@ -1,0 +1,20 @@
+
+LIMITATIONS
+===========
+1. Data completeness: ball-by-ball data covers IPL 2022–2026 and T20I 2022–2026 (807 matches).
+   Bilateral T20I series with limited coverage may underrepresent some players.
+2. Win-probability model: the innings-2 GBM achieves Brier ~0.14 (OOF), which is good for
+   T20 prediction; the innings-1 LR model is weaker (~0.23) and WPA from innings-1 is
+   used with appropriate caution in the WPAE calculation.
+3. Split-half reliability: T20 is a high-variance format; individual match outcomes
+   contain substantial luck. Measured reliability is LOW: split-half Spearman is about 0.00 (batters) and 0.08 (bowlers); out-of-time Spearman is 0.03-0.18. The rankings describe past pressure performance and are only weakly predictive. Recency weighting, shrinkage and bootstrap CIs are used but cannot remove this noise; read the P(top-10) stability flags as the main uncertainty guide.
+4. bowl_speed coverage: 63.9% of balls have valid speed data; mean speed analysis
+   is directionally reliable but not exhaustive.
+5. Spell inference: bowling spells are inferred from consecutive overs (<=2 overs apart)
+   as the data lacks a bowling-end identifier.
+6. Elo ratings: computed from home/away team IDs using team-level outcomes, not
+   individual player opposition quality; serves as a first-order adjustment only.
+7. Impact player rule (IPL 2023+): only balls actually faced/bowled by impact players
+   are credited per BCCI rules; there may be edge cases in the data.
+8. Pakistan exclusion: 68 player_ids excluded from rankings. Their matches and
+   deliveries are retained for context models, opposition Elo, and WP model training.

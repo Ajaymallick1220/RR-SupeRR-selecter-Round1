@@ -1,0 +1,38 @@
+{
+  "oot_validation": [
+    {
+      "split": "Train 2022-23 \u2192 Test 2024-26",
+      "n_players": 337,
+      "spearman_rho": 0.048,
+      "p_value": 0.3808
+    },
+    {
+      "split": "Train 2022-24 \u2192 Test 2025-26",
+      "n_players": 338,
+      "spearman_rho": 0.025,
+      "p_value": 0.6534
+    },
+    {
+      "split": "Bowl Train 2022-23 \u2192 Test 2024-26",
+      "n_players": 236,
+      "spearman_rho": 0.139,
+      "p_value": 0.0333
+    },
+    {
+      "split": "Bowl Train 2022-24 \u2192 Test 2025-26",
+      "n_players": 240,
+      "spearman_rho": 0.162,
+      "p_value": 0.0118
+    }
+  ],
+  "split_half_bat": {
+    "mean_rho": 0.062,
+    "p5_rho": 0.012
+  },
+  "split_half_bowl": {
+    "mean_rho": 0.103,
+    "p5_rho": 0.05
+  },
+  "sanity_issues": 0,
+  "pak_in_tables": false
+}

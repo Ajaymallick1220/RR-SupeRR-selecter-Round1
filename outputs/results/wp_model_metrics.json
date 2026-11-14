@@ -1,0 +1,12 @@
+{
+  "inn2_gbm": {
+    "oof_log_loss": 0.4543,
+    "oof_brier": 0.1479,
+    "chron_log_loss": 0.4891,
+    "chron_brier": 0.1592
+  },
+  "inn1_lr": {
+    "oof_log_loss": 0.6503,
+    "oof_brier": 0.2275
+  }
+}

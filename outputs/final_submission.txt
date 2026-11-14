@@ -1,0 +1,37 @@
+=== FINAL RANKINGS - SUPERR SELECTOR S2 (v7) ===
+
+UNIFIED TOP 10 (Batters + Bowlers + All-rounders):
+1. Nathan Ellis (player_id 7920) [bowl] combined=+0.115 batting_share=+0.000 bowling_share=+0.115 P(top10)=0.65
+2. Corbin Bosch (player_id 3629) [bowl] combined=+0.109 batting_share=+0.000 bowling_share=+0.109 P(top10)=0.58
+3. Kagiso Rabada (player_id 3628) [bowl] combined=+0.105 batting_share=+0.000 bowling_share=+0.105 P(top10)=0.59
+4. Krunal Pandya (player_id 4219) [allrounder] combined=+0.090 batting_share=+0.025 bowling_share=+0.066 P(top10)=0.40
+5. Jamie Overton (player_id 2382) [bowl] combined=+0.084 batting_share=+0.000 bowling_share=+0.084 P(top10)=0.35
+6. Wanindu Hasaranga (player_id 4900) [allrounder] combined=+0.083 batting_share=-0.029 bowling_share=+0.112 P(top10)=0.36
+7. Jasprit Bumrah (player_id 2933) [bowl] combined=+0.076 batting_share=+0.000 bowling_share=+0.076 P(top10)=0.15
+8. Sunil Narine (player_id 781) [allrounder] combined=+0.075 batting_share=-0.012 bowling_share=+0.087 P(top10)=0.30
+9. Ottneil Baartman (player_id 8805) [bowl] combined=+0.074 batting_share=+0.000 bowling_share=+0.074 P(top10)=0.28
+10. Kuldeep Yadav (player_id 3644) [bowl] combined=+0.073 batting_share=+0.000 bowling_share=+0.073 P(top10)=0.25
+
+TOP 10 BATTERS (Unstop dropdown):
+1. Abhishek Sharma
+2. Phil Salt
+3. Mitchell Marsh
+4. Priyansh Arya
+5. Ryan Rickelton
+6. Ashutosh Sharma
+7. Sai Sudharsan
+8. Washington Sundar
+9. Josh Inglis
+10. Virat Kohli
+
+TOP 10 BOWLERS (Unstop dropdown):
+1. Nathan Ellis
+2. Wanindu Hasaranga
+3. Corbin Bosch
+4. Kagiso Rabada
+5. Sunil Narine
+6. Jamie Overton
+7. Jasprit Bumrah
+8. Ottneil Baartman
+9. Kuldeep Yadav
+10. Liam Dawson

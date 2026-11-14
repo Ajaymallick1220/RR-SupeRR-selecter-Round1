@@ -1,0 +1,5 @@
+split,n_players,spearman_rho,p_value
+Train 2022-23 → Test 2024-26,337,0.048,0.3808
+Train 2022-24 → Test 2025-26,338,0.025,0.6534
+Bowl Train 2022-23 → Test 2024-26,236,0.139,0.0333
+Bowl Train 2022-24 → Test 2025-26,240,0.162,0.0118

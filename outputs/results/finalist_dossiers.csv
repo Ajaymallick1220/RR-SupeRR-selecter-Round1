@@ -1,0 +1,217 @@
+player_id,player_name,role,kind,date,competition,opponent,innings,balls,runs,wickets,phase,balls_left_at_start,runs_required_at_start,own_side_win_prob_start,own_side_win_prob_end,wp_swing_from_his_balls,wpae_adjusted,scenario_tags
+152,Ravindra Jadeja,batter,best,2025-05-03,IPL 2025,Royal Challengers Bengaluru,2,45,77,0,middle,85,153.0,0.153,0.968,0.653,1.13,"A chasing pressure, E big ask, G high-scoring pitch, I set-batter/bounce-back"
+152,Ravindra Jadeja,batter,best,2025-03-30,IPL 2025,Rajasthan Royals,2,22,32,0,death,48,90.0,0.247,0.139,0.168,0.641,"A chasing pressure, E big ask"
+152,Ravindra Jadeja,batter,best,2023-04-12,IPL 2023,Rajasthan Royals,2,15,25,0,death,34,72.0,0.138,0.534,0.192,0.529,"A chasing pressure, D key moments, E big ask"
+152,Ravindra Jadeja,batter,worst,2025-04-14,IPL 2025,Lucknow Super Giants,2,11,7,1,middle,69,92.0,0.817,0.453,-0.289,-0.608,no tagged scenario
+152,Ravindra Jadeja,batter,worst,2025-05-20,IPL 2025,Rajasthan Royals,1,5,1,1,middle,84,,0.479,0.331,-0.135,-0.277,no tagged scenario
+152,Ravindra Jadeja,batter,worst,2022-04-25,IPL 2022,Punjab Kings,2,16,21,0,death,44,98.0,0.113,0.0,-0.218,-0.276,"A chasing pressure, D key moments, E big ask"
+781,Sunil Narine,batter,best,2024-03-29,IPL 2024,Royal Challengers Bengaluru,2,22,47,1,powerplay,115,172.0,0.708,0.936,0.172,0.315,"G high-scoring pitch, I set-batter/bounce-back"
+781,Sunil Narine,batter,best,2025-04-29,IPL 2025,Delhi Capitals,1,16,27,1,powerplay,113,,0.442,0.606,0.199,0.267,no tagged scenario
+781,Sunil Narine,batter,best,2024-04-16,IPL 2024,Rajasthan Royals,1,56,109,1,middle,113,,0.446,0.734,0.307,0.266,"B setting under pressure, G high-scoring pitch, I set-batter/bounce-back"
+781,Sunil Narine,batter,worst,2023-04-01,IPL 2023,Punjab Kings,2,2,7,0,death,26,54.0,0.226,0.0,-0.194,-0.53,no tagged scenario
+781,Sunil Narine,batter,worst,2022-04-23,IPL 2022,Gujarat Titans,2,5,5,1,powerplay,113,152.0,0.565,0.339,-0.236,-0.522,no tagged scenario
+781,Sunil Narine,batter,worst,2023-04-09,IPL 2023,Gujarat Titans,2,1,0,1,death,22,49.0,0.318,0.16,-0.158,-0.453,no tagged scenario
+818,Mitchell Marsh,batter,best,2025-10-01,Australia in New Zealand T20I Series 2025,New Zealand,2,43,85,1,middle,119,182.0,0.354,0.983,0.535,1.132,"G high-scoring pitch, I set-batter/bounce-back"
+818,Mitchell Marsh,batter,best,2025-10-04,Australia in New Zealand T20I Series 2025,New Zealand,2,52,103,0,middle,119,157.0,0.619,0.885,0.688,1.132,"A chasing pressure, I set-batter/bounce-back"
+818,Mitchell Marsh,batter,best,2022-05-11,IPL 2022,Rajasthan Royals,2,62,89,1,middle,117,160.0,0.593,0.972,0.376,0.984,"A chasing pressure, D key moments, I set-batter/bounce-back"
+818,Mitchell Marsh,batter,worst,2022-10-09,England in Australia T20I Series 2022,England,2,26,36,1,powerplay,112,193.0,0.458,0.363,-0.313,-0.762,"G high-scoring pitch, I set-batter/bounce-back"
+818,Mitchell Marsh,batter,worst,2023-04-15,IPL 2023,Royal Challengers Bengaluru,2,4,0,1,powerplay,113,172.0,0.552,0.234,-0.318,-0.756,no tagged scenario
+818,Mitchell Marsh,batter,worst,2025-07-20,Australia in West Indies T20I Series 2025,West Indies,2,17,24,1,powerplay,119,190.0,0.243,0.385,-0.309,-0.582,"A chasing pressure, G high-scoring pitch"
+838,Glenn Maxwell,batter,best,2023-11-28,Australia in India T20I Series 2023,India,2,47,104,0,middle,85,156.0,0.239,1.0,0.991,1.134,"A chasing pressure, E big ask, F collapse and rebuild, G high-scoring pitch, I set-batter/bounce-back"
+838,Glenn Maxwell,batter,best,2023-04-17,IPL 2023,Chennai Super Kings,2,36,76,1,middle,106,210.0,0.123,0.323,0.442,1.131,"A chasing pressure, G high-scoring pitch, I set-batter/bounce-back"
+838,Glenn Maxwell,batter,best,2025-08-16,South Africa in Australia T20I Series 2025,South Africa,2,36,62,0,death,54,82.0,0.305,1.0,1.287,1.129,"A chasing pressure, D key moments, I set-batter/bounce-back"
+838,Glenn Maxwell,batter,worst,2022-10-05,West Indies in Australia T20I Series 2022,West Indies,2,3,0,1,middle,84,90.0,0.791,0.477,-0.321,-0.686,no tagged scenario
+838,Glenn Maxwell,batter,worst,2022-09-20,Australia in India T20I Series 2022,India,2,3,1,1,middle,57,98.0,0.565,0.242,-0.237,-0.514,no tagged scenario
+838,Glenn Maxwell,batter,worst,2024-03-25,IPL 2024,Punjab Kings,2,5,3,1,middle,56,90.0,0.662,0.665,-0.173,-0.396,no tagged scenario
+2633,Jason Holder,batter,best,2026-06-15,Sri Lanka in West Indies T20I Series 2026,Sri Lanka,2,5,21,0,death,16,35.0,0.448,0.979,0.551,1.129,no tagged scenario
+2633,Jason Holder,batter,best,2025-08-02,Pakistan in West Indies T20I Series 2025,Pakistan,2,9,16,0,death,22,38.0,0.32,1.0,1.002,1.129,"A chasing pressure, D key moments, E big ask"
+2633,Jason Holder,batter,best,2023-12-22,England in West Indies T20I Series 2023,England,2,2,4,0,death,6,10.0,0.69,0.823,0.133,0.329,no tagged scenario
+2633,Jason Holder,batter,worst,2023-08-06,India in West Indies T20I Series 2023,India,2,3,0,1,death,28,24.0,0.929,0.526,-0.403,-0.853,no tagged scenario
+2633,Jason Holder,batter,worst,2025-08-03,Pakistan in West Indies T20I Series 2025,Pakistan,2,2,0,1,death,17,39.0,0.34,0.117,-0.223,-0.594,no tagged scenario
+2633,Jason Holder,batter,worst,2022-07-29,India in West Indies T20I Series 2022,India,2,4,0,1,powerplay,110,165.0,0.35,0.206,-0.198,-0.434,no tagged scenario
+4219,Krunal Pandya,batter,best,2026-05-10,IPL 2026,Mumbai Indians,2,46,73,1,middle,88,128.0,0.476,0.519,0.341,1.109,"A chasing pressure, E big ask, F collapse and rebuild, I set-batter/bounce-back"
+4219,Krunal Pandya,batter,best,2025-04-27,IPL 2025,Delhi Capitals,2,46,69,0,middle,95,137.0,0.59,0.964,0.364,1.023,"A chasing pressure, F collapse and rebuild, I set-batter/bounce-back"
+4219,Krunal Pandya,batter,best,2022-04-19,IPL 2022,Royal Challengers Bengaluru,2,28,42,1,middle,88,148.0,0.104,0.089,0.042,0.296,"A chasing pressure, I set-batter/bounce-back"
+4219,Krunal Pandya,batter,worst,2023-04-03,IPL 2023,Chennai Super Kings,2,9,9,1,middle,74,134.0,0.2,0.2,-0.085,-0.352,"A chasing pressure, F collapse and rebuild, G high-scoring pitch"
+4219,Krunal Pandya,batter,worst,2022-05-15,IPL 2022,Rajasthan Royals,2,23,25,1,middle,86,148.0,0.179,0.199,-0.165,-0.328,"A chasing pressure, F collapse and rebuild"
+4219,Krunal Pandya,batter,worst,2026-05-31,IPL 2026,Gujarat Titans,2,2,1,1,middle,69,67.0,0.935,0.792,-0.143,-0.316,no tagged scenario
+4900,Wanindu Hasaranga,batter,best,2022-04-26,IPL 2022,Rajasthan Royals,2,13,18,1,death,41,65.0,0.123,0.083,0.339,0.833,"A chasing pressure, D key moments, E big ask"
+4900,Wanindu Hasaranga,batter,best,2025-09-15,Asia Cup 2025,Hong Kong,2,9,20,0,death,16,23.0,0.807,1.0,0.165,0.336,"A chasing pressure, D key moments"
+4900,Wanindu Hasaranga,batter,best,2024-12-28,Sri Lanka in New Zealand T20I Series 2024/25,New Zealand,2,2,5,0,death,9,19.0,0.566,0.392,0.073,0.282,no tagged scenario
+4900,Wanindu Hasaranga,batter,worst,2022-03-30,IPL 2022,Kolkata Knight Riders,2,3,4,1,death,15,22.0,0.913,0.634,-0.279,-0.609,no tagged scenario
+4900,Wanindu Hasaranga,batter,worst,2024-11-10,New Zealand in Sri Lanka T20I Series 2024,New Zealand,2,7,3,1,middle,49,46.0,0.51,0.314,-0.24,-0.534,no tagged scenario
+4900,Wanindu Hasaranga,batter,worst,2022-02-13,Sri Lanka in Australia T20I Series 2022,Australia,2,9,13,1,death,20,48.0,0.052,0.044,-0.134,-0.344,"A chasing pressure, D key moments, E big ask"
+5553,Phil Salt,batter,best,2024-11-10,England in West Indies T20I Series 2024,West Indies,2,54,103,0,powerplay,119,182.0,0.354,0.986,0.608,1.131,"A chasing pressure, G high-scoring pitch, I set-batter/bounce-back"
+5553,Phil Salt,batter,best,2025-05-23,IPL 2025,Sunrisers Hyderabad,2,32,62,1,middle,119,231.0,0.164,0.285,0.355,1.131,"A chasing pressure, G high-scoring pitch, I set-batter/bounce-back"
+5553,Phil Salt,batter,best,2022-09-30,England in Pakistan T20I Series 2022,Pakistan,2,41,88,0,middle,119,170.0,0.115,1.0,0.551,1.13,"G high-scoring pitch, I set-batter/bounce-back"
+5553,Phil Salt,batter,worst,2022-09-28,England in Pakistan T20I Series 2022,Pakistan,2,6,3,1,powerplay,119,146.0,0.735,0.318,-0.346,-0.749,no tagged scenario
+5553,Phil Salt,batter,worst,2026-02-01,England in Sri Lanka T20I Series 2026,Sri Lanka,2,2,1,1,powerplay,611,168.0,0.37,0.541,-0.14,-0.333,no tagged scenario
+5553,Phil Salt,batter,worst,2023-12-14,England in West Indies T20I Series 2023,West Indies,2,23,25,1,powerplay,119,177.0,0.371,0.23,-0.183,-0.327,A chasing pressure
+25669,Priyansh Arya,batter,best,2025-05-26,IPL 2025,Mumbai Indians,2,35,62,1,middle,119,185.0,0.513,0.89,0.493,1.126,"A chasing pressure, I set-batter/bounce-back"
+25669,Priyansh Arya,batter,best,2026-04-25,IPL 2026,Delhi Capitals,2,17,43,1,powerplay,119,265.0,0.119,0.737,0.373,0.978,G high-scoring pitch
+25669,Priyansh Arya,batter,best,2026-04-11,IPL 2026,Sunrisers Hyderabad,2,20,57,1,powerplay,119,220.0,0.291,0.909,0.341,0.813,G high-scoring pitch
+25669,Priyansh Arya,batter,worst,2025-04-05,IPL 2025,Rajasthan Royals,2,1,0,1,powerplay,119,205.0,0.385,0.217,-0.169,-0.494,no tagged scenario
+25669,Priyansh Arya,batter,worst,2026-05-17,IPL 2026,Royal Challengers Bengaluru,2,3,0,1,powerplay,119,223.0,0.366,0.223,-0.143,-0.441,no tagged scenario
+25669,Priyansh Arya,batter,worst,2026-05-23,IPL 2026,Lucknow Super Giants,2,1,0,1,powerplay,119,195.0,0.441,0.305,-0.136,-0.314,no tagged scenario
+152,Ravindra Jadeja,bowler,best,2026-04-19,IPL 2026,Kolkata Knight Riders,2,18,8,2,middle,83,105.0,0.264,0.627,0.369,0.724,F collapse and rebuild
+152,Ravindra Jadeja,bowler,best,2024-05-05,IPL 2024,Punjab Kings,2,24,20,3,middle,83,120.0,0.326,0.951,0.259,0.624,"A chasing pressure, F collapse and rebuild"
+152,Ravindra Jadeja,bowler,best,2023-05-23,IPL 2023,Gujarat Titans,2,24,18,2,middle,83,132.0,0.647,0.789,0.234,0.609,"A chasing pressure, C knockout/final, I set-batter/bounce-back"
+152,Ravindra Jadeja,bowler,worst,2025-05-20,IPL 2025,Rajasthan Royals,2,12,27,0,middle,59,91.0,0.295,0.091,-0.148,-0.312,"A chasing pressure, I set-batter/bounce-back"
+152,Ravindra Jadeja,bowler,worst,2022-03-31,IPL 2022,Lucknow Super Giants,2,12,21,0,middle,83,156.0,0.563,0.393,-0.115,-0.171,"G high-scoring pitch, I set-batter/bounce-back"
+152,Ravindra Jadeja,bowler,worst,2026-05-29,IPL 2026,Gujarat Titans,2,12,28,0,middle,65,106.0,0.118,0.024,-0.077,-0.17,"C knockout/final, G high-scoring pitch, I set-batter/bounce-back"
+479,Adil Rashid,bowler,best,2025-01-28,England in India T20I Series 2025,India,2,24,19,1,middle,77,108.0,0.59,0.965,0.348,0.835,"A chasing pressure, F collapse and rebuild"
+479,Adil Rashid,bowler,best,2023-12-13,England in West Indies T20I Series 2023,West Indies,2,24,25,2,middle,77,94.0,0.142,0.029,0.325,0.66,D key moments
+479,Adil Rashid,bowler,best,2024-05-25,Pakistan in England T20I Series 2024,Pakistan,2,18,24,1,middle,77,120.0,0.521,0.898,0.173,0.521,A chasing pressure
+479,Adil Rashid,bowler,worst,2022-10-12,England in Australia T20I Series 2022,Australia,2,24,38,0,middle,83,132.0,0.815,0.544,-0.538,-1.447,"A chasing pressure, F collapse and rebuild"
+479,Adil Rashid,bowler,worst,2022-10-09,England in Australia T20I Series 2022,Australia,2,18,40,2,middle,71,129.0,0.569,0.303,-0.25,-0.597,"G high-scoring pitch, I set-batter/bounce-back"
+479,Adil Rashid,bowler,worst,2022-09-22,England in Pakistan T20I Series 2022,Pakistan,2,18,34,0,middle,83,141.0,0.417,0.137,-0.192,-0.442,"G high-scoring pitch, I set-batter/bounce-back"
+722,Liam Dawson,bowler,best,2022-09-22,England in Pakistan T20I Series 2022,Pakistan,2,24,26,0,middle,113,188.0,0.455,0.648,0.538,1.067,"A chasing pressure, G high-scoring pitch, I set-batter/bounce-back"
+722,Liam Dawson,bowler,best,2025-06-06,West Indies in England T20I Series 2025,West Indies,2,24,20,4,middle,119,188.0,0.698,0.933,0.543,1.065,A chasing pressure
+722,Liam Dawson,bowler,best,2026-09-17,Sri Lanka in England T20I Series 2026,Sri Lanka,1,24,32,3,middle,89,,0.376,0.608,0.148,0.352,B setting under pressure
+722,Liam Dawson,bowler,worst,2025-06-08,West Indies in England T20I Series 2025,West Indies,1,24,41,0,powerplay,112,,0.506,0.392,-0.129,-0.138,"B setting under pressure, D key moments, G high-scoring pitch, I set-batter/bounce-back"
+722,Liam Dawson,bowler,worst,2025-09-10,South Africa in England T20I Series 2025,South Africa,1,6,15,0,powerplay,299,,0.753,0.707,-0.046,-0.076,"B setting under pressure, F collapse and rebuild, G high-scoring pitch"
+722,Liam Dawson,bowler,worst,2022-01-22,England in West Indies T20I Series 2022,West Indies,2,24,13,0,middle,95,78.0,0.054,0.034,0.002,-0.016,I set-batter/bounce-back
+781,Sunil Narine,bowler,best,2024-03-23,IPL 2024,Sunrisers Hyderabad,2,24,19,1,middle,83,143.0,0.514,0.921,0.366,0.776,"A chasing pressure, G high-scoring pitch"
+781,Sunil Narine,bowler,best,2025-04-29,IPL 2025,Delhi Capitals,2,24,29,3,middle,77,142.0,0.848,0.971,0.387,0.766,"A chasing pressure, E big ask, F collapse and rebuild, I set-batter/bounce-back"
+781,Sunil Narine,bowler,best,2026-04-09,IPL 2026,Lucknow Super Giants,2,24,13,1,middle,89,133.0,0.484,0.827,0.378,0.681,"A chasing pressure, D key moments, E big ask"
+781,Sunil Narine,bowler,worst,2025-05-07,IPL 2025,Chennai Super Kings,2,24,28,0,middle,83,118.0,0.482,0.152,-0.268,-0.532,F collapse and rebuild
+781,Sunil Narine,bowler,worst,2023-04-16,IPL 2023,Mumbai Indians,2,18,39,0,death,101,151.0,0.226,0.008,-0.175,-0.332,I set-batter/bounce-back
+781,Sunil Narine,bowler,worst,2026-03-29,IPL 2026,Mumbai Indians,2,18,30,1,middle,83,141.0,0.162,0.009,-0.136,-0.29,"D key moments, G high-scoring pitch, I set-batter/bounce-back"
+830,Josh Hazlewood,bowler,best,2025-04-24,IPL 2025,Rajasthan Royals,2,24,32,4,death,101,171.0,0.509,0.941,1.221,1.071,"A chasing pressure, D key moments, E big ask"
+830,Josh Hazlewood,bowler,best,2025-08-10,South Africa in Australia T20I Series 2025,South Africa,2,24,27,3,powerplay,119,178.0,0.629,0.983,0.564,1.059,"A chasing pressure, E big ask, I set-batter/bounce-back"
+830,Josh Hazlewood,bowler,best,2022-05-25,IPL 2022,Lucknow Super Giants,2,24,41,3,powerplay,113,199.0,0.822,0.912,0.357,1.014,"A chasing pressure, C knockout/final, E big ask, I set-batter/bounce-back"
+830,Josh Hazlewood,bowler,worst,2025-04-10,IPL 2025,Delhi Capitals,2,18,40,0,middle,89,133.0,0.486,0.072,-0.58,-1.206,"A chasing pressure, F collapse and rebuild, I set-batter/bounce-back"
+830,Josh Hazlewood,bowler,worst,2022-04-30,IPL 2022,Gujarat Titans,2,21,35,0,powerplay,107,153.0,0.272,0.0,-0.343,-0.765,"A chasing pressure, E big ask"
+830,Josh Hazlewood,bowler,worst,2023-05-09,IPL 2023,Mumbai Indians,2,18,31,0,powerplay,113,195.0,0.586,0.131,-0.242,-0.556,"A chasing pressure, G high-scoring pitch, I set-batter/bounce-back"
+838,Glenn Maxwell,bowler,best,2024-05-18,IPL 2024,Chennai Super Kings,2,24,20,2,middle,119,219.0,0.591,0.951,0.269,0.702,"A chasing pressure, G high-scoring pitch, I set-batter/bounce-back"
+838,Glenn Maxwell,bowler,best,2025-04-08,IPL 2025,Chennai Super Kings,2,12,11,1,middle,95,178.0,0.568,0.843,0.322,0.693,"A chasing pressure, G high-scoring pitch"
+838,Glenn Maxwell,bowler,best,2022-05-08,IPL 2022,Sunrisers Hyderabad,2,12,13,2,powerplay,119,189.0,0.561,0.818,0.256,0.651,A chasing pressure
+838,Glenn Maxwell,bowler,worst,2022-06-11,Australia in Sri Lanka T20I Series 2022,Sri Lanka,2,18,26,0,middle,77,117.0,0.43,0.66,-0.116,-0.474,A chasing pressure
+838,Glenn Maxwell,bowler,worst,2025-04-12,IPL 2025,Sunrisers Hyderabad,2,18,37,0,middle,95,184.0,0.472,0.105,-0.213,-0.428,"G high-scoring pitch, I set-batter/bounce-back"
+838,Glenn Maxwell,bowler,worst,2022-09-25,Australia in India T20I Series 2022,India,2,6,12,0,middle,77,132.0,0.69,0.509,-0.181,-0.421,no tagged scenario
+1612,Yuzvendra Chahal,bowler,best,2025-04-15,IPL 2025,Kolkata Knight Riders,2,24,27,4,middle,77,51.0,0.272,0.924,0.409,1.075,"A chasing pressure, D key moments"
+1612,Yuzvendra Chahal,bowler,best,2022-04-18,IPL 2022,Kolkata Knight Riders,2,24,36,5,middle,83,157.0,0.694,0.915,0.558,1.072,"A chasing pressure, G high-scoring pitch, I set-batter/bounce-back"
+1612,Yuzvendra Chahal,bowler,best,2023-05-07,IPL 2023,Sunrisers Hyderabad,2,24,29,4,death,89,167.0,0.239,0.849,0.714,1.069,"A chasing pressure, D key moments, E big ask, G high-scoring pitch, I set-batter/bounce-back"
+1612,Yuzvendra Chahal,bowler,worst,2022-09-04,Mens Twenty20 Asia Cup 2022,Pakistan,2,24,43,1,middle,83,137.0,0.736,0.139,-0.222,-0.728,"A chasing pressure, I set-batter/bounce-back"
+1612,Yuzvendra Chahal,bowler,worst,2022-09-20,Australia in India T20I Series 2022,Australia,2,20,41,1,middle,95,168.0,0.637,0.0,-0.281,-0.676,"A chasing pressure, G high-scoring pitch, I set-batter/bounce-back"
+1612,Yuzvendra Chahal,bowler,worst,2022-06-09,South Africa in India T20I Series 2022,South Africa,2,13,26,0,middle,101,184.0,0.694,0.0,-0.153,-0.551,"A chasing pressure, G high-scoring pitch, I set-batter/bounce-back"
+2382,Jamie Overton,bowler,best,2026-04-11,IPL 2026,Delhi Capitals,2,24,17,4,death,77,138.0,0.782,0.977,0.418,1.073,"A chasing pressure, D key moments, E big ask, F collapse and rebuild, I set-batter/bounce-back"
+2382,Jamie Overton,bowler,best,2024-11-15,England in West Indies T20I Series 2024,West Indies,1,24,20,3,death,77,,0.728,0.797,0.168,0.398,"B setting under pressure, D key moments, F collapse and rebuild"
+2382,Jamie Overton,bowler,best,2026-04-18,IPL 2026,Sunrisers Hyderabad,1,24,37,3,middle,77,,0.364,0.341,0.107,0.37,"B setting under pressure, I set-batter/bounce-back"
+2382,Jamie Overton,bowler,worst,2025-01-25,England in India T20I Series 2025,India,2,14,15,1,middle,65,86.0,0.141,0.0,-0.014,-0.186,no tagged scenario
+2382,Jamie Overton,bowler,worst,2025-04-20,IPL 2025,Mumbai Indians,2,12,24,0,powerplay,113,166.0,0.295,0.1,-0.124,-0.184,no tagged scenario
+2382,Jamie Overton,bowler,worst,2025-03-30,IPL 2025,Rajasthan Royals,1,12,30,0,powerplay,113,,0.677,0.563,-0.116,-0.176,no tagged scenario
+2633,Jason Holder,bowler,best,2023-08-03,India in West Indies T20I Series 2023,India,2,24,19,3,death,83,103.0,0.296,0.559,0.595,1.023,"A chasing pressure, D key moments, E big ask"
+2633,Jason Holder,bowler,best,2025-10-30,West Indies in Bangladesh T20I Series 2025,Bangladesh,2,24,19,2,death,113,148.0,0.32,0.947,0.398,0.816,"A chasing pressure, D key moments, E big ask"
+2633,Jason Holder,bowler,best,2025-09-27,Nepal v West Indies T20I Series 2025,Nepal,1,24,20,4,death,113,,0.315,0.609,0.265,0.57,B setting under pressure
+2633,Jason Holder,bowler,worst,2023-04-30,IPL 2023,Mumbai Indians,2,21,53,0,middle,65,128.0,0.786,0.0,-0.886,-2.189,"A chasing pressure, E big ask, G high-scoring pitch"
+2633,Jason Holder,bowler,worst,2022-05-01,IPL 2022,Delhi Capitals,2,24,44,0,death,95,163.0,0.789,0.976,-0.301,-0.88,"A chasing pressure, E big ask, I set-batter/bounce-back"
+2633,Jason Holder,bowler,worst,2023-08-12,India in West Indies T20I Series 2023,India,2,24,33,0,middle,107,162.0,0.616,0.0,-0.255,-0.728,I set-batter/bounce-back
+2636,Adam Zampa,bowler,best,2024-02-09,West Indies in Australia T20I Series 2024,West Indies,2,24,27,3,middle,83,138.0,0.358,0.956,0.261,0.629,"A chasing pressure, E big ask, G high-scoring pitch, I set-batter/bounce-back"
+2636,Adam Zampa,bowler,best,2022-02-11,Sri Lanka in Australia T20I Series 2022,Sri Lanka,2,24,21,3,middle,641,109.0,0.9,0.875,0.16,0.581,I set-batter/bounce-back
+2636,Adam Zampa,bowler,best,2023-04-27,IPL 2023,Chennai Super Kings,2,18,23,3,middle,89,165.0,0.346,0.934,0.194,0.524,A chasing pressure
+2636,Adam Zampa,bowler,worst,2022-02-20,Sri Lanka in Australia T20I Series 2022,Sri Lanka,2,24,33,0,middle,77,100.0,0.53,0.22,-0.426,-1.038,"F collapse and rebuild, I set-batter/bounce-back"
+2636,Adam Zampa,bowler,worst,2022-09-25,Australia in India T20I Series 2022,India,2,24,44,0,middle,107,171.0,0.672,0.162,-0.307,-0.719,"A chasing pressure, I set-batter/bounce-back"
+2636,Adam Zampa,bowler,worst,2025-08-10,South Africa in Australia T20I Series 2025,South Africa,2,24,33,2,middle,77,124.0,0.861,0.984,-0.087,-0.327,"A chasing pressure, D key moments, E big ask, F collapse and rebuild, I set-batter/bounce-back"
+2933,Jasprit Bumrah,bowler,best,2024-04-18,IPL 2024,Punjab Kings,2,24,19,3,powerplay,113,181.0,0.515,0.646,0.349,0.824,"A chasing pressure, F collapse and rebuild"
+2933,Jasprit Bumrah,bowler,best,2024-04-11,IPL 2024,Royal Challengers Bengaluru,1,24,22,5,death,107,,0.56,0.673,0.327,0.736,"B setting under pressure, D key moments, G high-scoring pitch, I set-batter/bounce-back"
+2933,Jasprit Bumrah,bowler,best,2022-05-09,IPL 2022,Kolkata Knight Riders,1,24,10,5,death,101,,0.432,0.743,0.383,0.708,"B setting under pressure, D key moments"
+2933,Jasprit Bumrah,bowler,worst,2022-03-27,IPL 2022,Delhi Capitals,2,20,43,0,death,113,165.0,0.33,0.0,-0.406,-1.034,"A chasing pressure, D key moments, E big ask"
+2933,Jasprit Bumrah,bowler,worst,2022-05-06,IPL 2022,Gujarat Titans,2,24,48,0,death,113,172.0,0.439,0.031,-0.273,-0.645,"A chasing pressure, D key moments"
+2933,Jasprit Bumrah,bowler,worst,2022-04-09,IPL 2022,Royal Challengers Bengaluru,2,24,33,0,powerplay,107,135.0,0.641,0.054,-0.253,-0.527,"A chasing pressure, D key moments, I set-batter/bounce-back"
+3628,Kagiso Rabada,bowler,best,2026-05-09,IPL 2026,Rajasthan Royals,2,18,33,2,powerplay,113,218.0,0.376,0.779,0.392,1.042,"A chasing pressure, G high-scoring pitch, I set-batter/bounce-back"
+3628,Kagiso Rabada,bowler,best,2026-05-12,IPL 2026,Sunrisers Hyderabad,2,24,28,3,powerplay,113,165.0,0.599,0.817,0.437,0.9,"A chasing pressure, F collapse and rebuild"
+3628,Kagiso Rabada,bowler,best,2024-03-25,IPL 2024,Royal Challengers Bengaluru,2,24,27,2,middle,107,155.0,0.223,0.397,0.294,0.807,no tagged scenario
+3628,Kagiso Rabada,bowler,worst,2025-03-29,IPL 2025,Mumbai Indians,2,24,41,1,death,113,188.0,0.691,0.964,-0.217,-0.626,"A chasing pressure, D key moments, E big ask, I set-batter/bounce-back"
+3628,Kagiso Rabada,bowler,worst,2026-03-31,IPL 2026,Punjab Kings,2,18,34,1,powerplay,113,156.0,0.193,0.141,-0.142,-0.319,"A chasing pressure, I set-batter/bounce-back"
+3628,Kagiso Rabada,bowler,worst,2023-04-13,IPL 2023,Gujarat Titans,2,24,41,1,powerplay,113,147.0,0.144,0.022,-0.155,-0.316,no tagged scenario
+3629,Corbin Bosch,bowler,best,2025-08-16,South Africa in Australia T20I Series 2025,Australia,2,24,27,3,death,71,104.0,0.344,0.596,0.458,1.101,"A chasing pressure, D key moments, I set-batter/bounce-back"
+3629,Corbin Bosch,bowler,best,2026-05-10,IPL 2026,Royal Challengers Bengaluru,2,24,26,4,middle,89,128.0,0.317,0.291,0.622,1.076,"A chasing pressure, F collapse and rebuild"
+3629,Corbin Bosch,bowler,best,2025-09-10,South Africa in England T20I Series 2025,England,2,12,21,2,powerplay,167,48.0,0.604,1.0,0.337,0.951,"A chasing pressure, F collapse and rebuild, G high-scoring pitch"
+3629,Corbin Bosch,bowler,worst,2026-04-04,IPL 2026,Delhi Capitals,2,19,38,1,middle,71,107.0,0.187,0.0,-0.153,-0.2,I set-batter/bounce-back
+3629,Corbin Bosch,bowler,worst,2025-04-27,IPL 2025,Lucknow Super Giants,2,24,23,1,death,59,107.0,0.699,0.99,-0.061,-0.145,"A chasing pressure, D key moments, E big ask"
+3629,Corbin Bosch,bowler,worst,2026-05-20,IPL 2026,Kolkata Knight Riders,2,18,29,3,death,89,109.0,0.148,0.013,-0.075,-0.06,D key moments
+3644,Kuldeep Yadav,bowler,best,2023-05-02,IPL 2023,Gujarat Titans,2,24,15,1,middle,83,100.0,0.394,0.544,0.498,1.078,"A chasing pressure, E big ask, F collapse and rebuild, I set-batter/bounce-back"
+3644,Kuldeep Yadav,bowler,best,2026-05-24,IPL 2026,Kolkata Knight Riders,2,24,27,3,middle,65,110.0,0.546,0.899,0.282,0.685,"A chasing pressure, E big ask, I set-batter/bounce-back"
+3644,Kuldeep Yadav,bowler,best,2024-03-23,IPL 2024,Punjab Kings,2,24,21,2,middle,77,107.0,0.267,0.391,0.243,0.6,I set-batter/bounce-back
+3644,Kuldeep Yadav,bowler,worst,2026-10-09,West Indies in India T20I Series 2026,West Indies,2,24,52,1,middle,77,161.0,0.872,0.043,-0.17,-0.383,"F collapse and rebuild, G high-scoring pitch, I set-batter/bounce-back"
+3644,Kuldeep Yadav,bowler,worst,2026-04-25,IPL 2026,Punjab Kings,2,24,44,2,middle,77,138.0,0.253,0.119,-0.139,-0.271,"A chasing pressure, G high-scoring pitch, I set-batter/bounce-back"
+3644,Kuldeep Yadav,bowler,worst,2025-09-19,Asia Cup 2025,Oman,2,18,21,1,middle,83,136.0,0.638,0.697,-0.019,-0.212,"A chasing pressure, E big ask, I set-batter/bounce-back"
+4219,Krunal Pandya,bowler,best,2024-04-07,IPL 2024,Gujarat Titans,2,24,11,3,middle,83,109.0,0.209,0.911,0.56,1.076,A chasing pressure
+4219,Krunal Pandya,bowler,best,2025-06-03,IPL 2025,Punjab Kings,2,24,17,2,middle,83,139.0,0.433,0.825,0.566,1.073,"A chasing pressure, C knockout/final"
+4219,Krunal Pandya,bowler,best,2025-04-24,IPL 2025,Rajasthan Royals,2,24,29,2,middle,65,95.0,0.195,0.473,0.29,0.672,E big ask
+4219,Krunal Pandya,bowler,worst,2023-04-15,IPL 2023,Punjab Kings,2,18,32,1,middle,71,105.0,0.533,0.262,-0.193,-0.515,"A chasing pressure, F collapse and rebuild, I set-batter/bounce-back"
+4219,Krunal Pandya,bowler,worst,2022-04-29,IPL 2022,Punjab Kings,2,24,11,2,middle,77,98.0,0.76,0.574,-0.168,-0.471,A chasing pressure
+4219,Krunal Pandya,bowler,worst,2024-04-12,IPL 2024,Delhi Capitals,2,18,39,0,death,89,123.0,0.228,0.027,-0.178,-0.25,"D key moments, I set-batter/bounce-back"
+4373,Mustafizur Rahman,bowler,best,2024-05-10,Zimbabwe in Bangladesh T20I Series 2024,Zimbabwe,2,24,20,3,middle,89,111.0,0.581,0.965,0.515,1.053,"A chasing pressure, D key moments, E big ask, F collapse and rebuild"
+4373,Mustafizur Rahman,bowler,best,2023-12-31,Bangladesh in New Zealand T20I Series 2023,New Zealand,2,18,13,1,middle,83,76.0,0.184,0.055,0.337,0.88,F collapse and rebuild
+4373,Mustafizur Rahman,bowler,best,2023-03-14,England in Bangladesh T20I Series 2023,England,2,24,14,2,middle,77,98.0,0.177,0.823,0.427,0.743,"A chasing pressure, D key moments, E big ask, I set-batter/bounce-back"
+4373,Mustafizur Rahman,bowler,worst,2024-04-23,IPL 2024,Lucknow Super Giants,2,21,46,1,death,95,181.0,0.787,0.0,-0.508,-1.168,"A chasing pressure, E big ask, G high-scoring pitch, I set-batter/bounce-back"
+4373,Mustafizur Rahman,bowler,worst,2022-07-07,Bangladesh in West Indies T20I Series 2022,West Indies,2,12,26,0,middle,71,108.0,0.748,0.149,-0.346,-0.737,"F collapse and rebuild, I set-batter/bounce-back"
+4373,Mustafizur Rahman,bowler,worst,2022-08-30,Mens Twenty20 Asia Cup 2022,Afghanistan,2,18,28,0,death,113,126.0,0.109,0.108,-0.334,-0.662,"A chasing pressure, I set-batter/bounce-back"
+4658,Nasum Ahmed,bowler,best,2025-09-16,Asia Cup 2025,Afghanistan,2,24,11,3,powerplay,119,153.0,0.375,0.932,0.878,1.068,"A chasing pressure, D key moments, E big ask"
+4658,Nasum Ahmed,bowler,best,2026-06-19,Australia in Bangladesh T20I Series 2026,Australia,1,24,27,2,powerplay,119,,0.65,0.567,0.058,0.281,B setting under pressure
+4658,Nasum Ahmed,bowler,best,2025-09-01,Netherlands in Bangladesh T20I Series 2025,Netherlands,1,24,20,3,middle,107,,0.6,0.947,0.121,0.256,B setting under pressure
+4658,Nasum Ahmed,bowler,worst,2023-03-29,Ireland in Bangladesh T20I Series 2023,Ireland,2,18,36,0,powerplay,599,191.0,0.91,0.969,-0.125,-0.264,"A chasing pressure, F collapse and rebuild"
+4658,Nasum Ahmed,bowler,worst,2022-09-25,Bangladesh in United Arab Emirates T20I Series 2022,United Arab Emirates,2,24,31,1,middle,101,129.0,0.372,0.936,-0.1,-0.134,"A chasing pressure, I set-batter/bounce-back"
+4658,Nasum Ahmed,bowler,worst,2026-07-15,Bangladesh in Zimbabwe T20I Series 2026,Zimbabwe,1,18,32,0,powerplay,113,,0.465,0.438,-0.096,-0.109,no tagged scenario
+4874,Richard Ngarava,bowler,best,2026-07-15,Bangladesh in Zimbabwe T20I Series 2026,Bangladesh,2,24,25,4,powerplay,113,154.0,0.318,0.98,0.467,1.066,"A chasing pressure, D key moments, E big ask, F collapse and rebuild"
+4874,Richard Ngarava,bowler,best,2025-11-19,Pakistan T20I Tri-Series 2025,Sri Lanka,2,24,13,2,powerplay,119,161.0,0.486,0.994,0.274,0.518,"A chasing pressure, D key moments, E big ask"
+4874,Richard Ngarava,bowler,best,2025-11-25,Pakistan T20I Tri-Series 2025,Sri Lanka,2,20,41,0,powerplay,119,142.0,0.121,0.0,0.17,0.494,I set-batter/bounce-back
+4874,Richard Ngarava,bowler,worst,2025-09-07,Sri Lanka in Zimbabwe T20I Series 2025,Sri Lanka,2,22,42,0,powerplay,119,190.0,0.706,0.0,-0.234,-0.626,"A chasing pressure, G high-scoring pitch, I set-batter/bounce-back"
+4874,Richard Ngarava,bowler,worst,2024-01-14,Zimbabwe in Sri Lanka T20I Series 2024,Sri Lanka,2,24,32,1,death,119,143.0,0.259,0.623,-0.158,-0.58,"A chasing pressure, D key moments, E big ask"
+4874,Richard Ngarava,bowler,worst,2024-07-13,India in Zimbabwe T20I Series 2024,India,2,18,26,0,powerplay,119,153.0,0.302,0.014,-0.153,-0.255,I set-batter/bounce-back
+4900,Wanindu Hasaranga,bowler,best,2025-03-30,IPL 2025,Chennai Super Kings,2,24,36,4,middle,77,136.0,0.567,0.871,0.54,1.049,"A chasing pressure, E big ask, I set-batter/bounce-back"
+4900,Wanindu Hasaranga,bowler,best,2026-01-12,Pakistan in Sri Lanka T20I Series 2026,Pakistan,2,18,34,4,middle,95,95.0,0.108,0.185,0.407,1.031,"A chasing pressure, F collapse and rebuild, G high-scoring pitch"
+4900,Wanindu Hasaranga,bowler,best,2022-06-08,Australia in Sri Lanka T20I Series 2022,Australia,2,24,33,4,middle,107,98.0,0.086,0.43,0.326,0.787,"A chasing pressure, F collapse and rebuild"
+4900,Wanindu Hasaranga,bowler,worst,2022-05-25,IPL 2022,Lucknow Super Giants,2,24,42,1,middle,83,145.0,0.717,0.355,-0.426,-1.338,"A chasing pressure, C knockout/final, E big ask, I set-batter/bounce-back"
+4900,Wanindu Hasaranga,bowler,worst,2024-01-16,Zimbabwe in Sri Lanka T20I Series 2024,Zimbabwe,2,24,43,1,middle,77,135.0,0.746,0.9,-0.166,-0.451,"A chasing pressure, E big ask, I set-batter/bounce-back"
+4900,Wanindu Hasaranga,bowler,worst,2022-03-27,IPL 2022,Punjab Kings,2,24,38,1,middle,77,134.0,0.403,0.602,-0.057,-0.425,"A chasing pressure, D key moments, E big ask, G high-scoring pitch, I set-batter/bounce-back"
+7312,Nandre Burger,bowler,best,2024-03-28,IPL 2024,Delhi Capitals,2,18,30,2,powerplay,113,183.0,0.411,0.664,0.406,0.888,A chasing pressure
+7312,Nandre Burger,bowler,best,2026-04-04,IPL 2026,Gujarat Titans,2,18,29,1,middle,113,192.0,0.57,0.769,0.21,0.668,"A chasing pressure, G high-scoring pitch"
+7312,Nandre Burger,bowler,best,2026-04-07,IPL 2026,Mumbai Indians,2,12,24,2,middle,389,141.0,0.688,0.995,0.194,0.59,"A chasing pressure, F collapse and rebuild, G high-scoring pitch"
+7312,Nandre Burger,bowler,worst,2024-08-24,South Africa in West Indies T20I Series 2024,West Indies,2,19,47,0,powerplay,119,174.0,0.616,0.038,-0.277,-0.505,"A chasing pressure, I set-batter/bounce-back"
+7312,Nandre Burger,bowler,worst,2026-04-25,IPL 2026,Sunrisers Hyderabad,2,21,47,0,powerplay,113,216.0,0.459,0.0,-0.262,-0.439,"G high-scoring pitch, I set-batter/bounce-back"
+7312,Nandre Burger,bowler,worst,2024-03-24,IPL 2024,Lucknow Super Giants,2,18,34,1,powerplay,113,188.0,0.637,0.801,-0.105,-0.21,A chasing pressure
+7920,Nathan Ellis,bowler,best,2023-04-05,IPL 2023,Rajasthan Royals,2,24,30,4,middle,89,149.0,0.354,0.953,0.898,1.074,"A chasing pressure, D key moments, E big ask"
+7920,Nathan Ellis,bowler,best,2026-06-19,Australia in Bangladesh T20I Series 2026,Bangladesh,2,24,28,1,death,107,163.0,0.578,0.907,0.379,0.978,"A chasing pressure, D key moments, E big ask"
+7920,Nathan Ellis,bowler,best,2024-11-14,Pakistan in Australia T20I Series 2024,Pakistan,2,12,10,3,powerplay,239,78.0,0.707,0.99,0.306,0.825,"A chasing pressure, F collapse and rebuild, G high-scoring pitch"
+7920,Nathan Ellis,bowler,worst,2023-04-01,IPL 2023,Kolkata Knight Riders,2,18,19,1,middle,95,163.0,0.767,0.707,-0.17,-0.607,"A chasing pressure, F collapse and rebuild"
+7920,Nathan Ellis,bowler,worst,2023-04-22,IPL 2023,Mumbai Indians,2,24,44,1,death,89,168.0,0.729,0.41,-0.164,-0.606,"A chasing pressure, E big ask, G high-scoring pitch, I set-batter/bounce-back"
+7920,Nathan Ellis,bowler,worst,2025-08-10,South Africa in Australia T20I Series 2025,South Africa,2,24,42,0,death,71,116.0,0.822,0.957,-0.229,-0.598,"A chasing pressure, D key moments, E big ask, F collapse and rebuild, I set-batter/bounce-back"
+8661,Matheesha Pathirana,bowler,best,2024-04-14,IPL 2024,Mumbai Indians,2,24,28,4,death,77,135.0,0.388,1.0,0.416,0.855,"A chasing pressure, D key moments, E big ask, I set-batter/bounce-back"
+8661,Matheesha Pathirana,bowler,best,2026-01-12,Pakistan in Sri Lanka T20I Series 2026,Pakistan,2,18,33,2,middle,101,108.0,0.095,0.451,0.21,0.646,"A chasing pressure, F collapse and rebuild, G high-scoring pitch"
+8661,Matheesha Pathirana,bowler,best,2026-05-16,IPL 2026,Gujarat Titans,2,8,7,0,powerplay,101,203.0,0.584,0.938,0.195,0.498,G high-scoring pitch
+8661,Matheesha Pathirana,bowler,worst,2024-03-04,Sri Lanka in Bangladesh T20I Series 2024,Bangladesh,2,24,37,1,death,71,139.0,0.917,0.511,-0.622,-1.812,"A chasing pressure, D key moments, E big ask, F collapse and rebuild, I set-batter/bounce-back"
+8661,Matheesha Pathirana,bowler,worst,2022-05-20,IPL 2022,Rajasthan Royals,2,22,22,0,middle,77,92.0,0.113,0.0,-0.242,-0.606,"A chasing pressure, D key moments, E big ask, I set-batter/bounce-back"
+8661,Matheesha Pathirana,bowler,worst,2024-07-28,India in Sri Lanka T20I Series 2024,India,2,9,18,1,powerplay,263,33.0,0.243,0.0,-0.23,-0.498,no tagged scenario
+8805,Ottneil Baartman,bowler,best,2026-03-25,South Africa in New Zealand T20I Series 2026,New Zealand,2,24,34,2,death,89,145.0,0.441,0.947,0.394,0.979,"A chasing pressure, D key moments, E big ask"
+8805,Ottneil Baartman,bowler,best,2026-03-22,South Africa in New Zealand T20I Series 2026,New Zealand,2,24,29,2,middle,101,133.0,0.267,0.977,0.228,0.525,"A chasing pressure, D key moments, E big ask"
+8805,Ottneil Baartman,bowler,best,2024-05-24,South Africa in West Indies T20I Series [May 2024] 2024,West Indies,1,24,26,3,death,101,,0.452,0.666,0.177,0.456,"B setting under pressure, D key moments, I set-batter/bounce-back"
+8805,Ottneil Baartman,bowler,worst,2025-11-01,South Africa in Pakistan T20I Series 2025,Pakistan,2,6,17,0,middle,53,68.0,0.264,0.019,-0.245,-0.516,no tagged scenario
+8805,Ottneil Baartman,bowler,worst,2024-08-24,South Africa in West Indies T20I Series 2024,West Indies,2,24,28,2,middle,101,154.0,0.586,0.013,-0.141,-0.327,I set-batter/bounce-back
+8805,Ottneil Baartman,bowler,worst,2025-10-31,South Africa in Pakistan T20I Series 2025,Pakistan,2,12,34,0,middle,89,75.0,0.02,0.009,-0.011,-0.011,I set-batter/bounce-back
+29888,Harshit Rana,bowler,best,2024-05-11,IPL 2024,Mumbai Indians,2,18,33,3,death,101,121.0,0.155,1.0,0.918,1.07,"A chasing pressure, I set-batter/bounce-back"
+29888,Harshit Rana,bowler,best,2024-03-23,IPL 2024,Sunrisers Hyderabad,2,24,33,3,powerplay,113,196.0,0.652,1.0,0.567,1.068,"A chasing pressure, D key moments, G high-scoring pitch"
+29888,Harshit Rana,bowler,best,2026-06-26,India in Ireland T20I Series 2026,Ireland,1,24,22,3,powerplay,113,,0.453,0.607,0.185,0.462,"B setting under pressure, F collapse and rebuild"
+29888,Harshit Rana,bowler,worst,2024-04-16,IPL 2024,Rajasthan Royals,2,24,44,2,middle,95,178.0,0.743,0.56,-0.269,-0.847,"A chasing pressure, E big ask, G high-scoring pitch, I set-batter/bounce-back"
+29888,Harshit Rana,bowler,worst,2023-05-04,IPL 2023,Sunrisers Hyderabad,2,24,27,1,powerplay,119,170.0,0.337,0.413,-0.236,-0.764,no tagged scenario
+29888,Harshit Rana,bowler,worst,2025-05-07,IPL 2025,Chennai Super Kings,2,24,43,2,powerplay,107,155.0,0.652,0.053,-0.252,-0.565,"F collapse and rebuild, I set-batter/bounce-back"
+39657,Eshan Malinga,bowler,best,2026-04-18,IPL 2026,Chennai Super Kings,2,24,28,3,death,89,129.0,0.347,0.987,0.634,1.069,"A chasing pressure, D key moments, E big ask"
+39657,Eshan Malinga,bowler,best,2026-01-12,Pakistan in Sri Lanka T20I Series 2026,Pakistan,2,12,22,2,middle,113,152.0,0.408,1.0,0.344,1.036,"A chasing pressure, G high-scoring pitch, I set-batter/bounce-back"
+39657,Eshan Malinga,bowler,best,2026-05-22,IPL 2026,Royal Challengers Bengaluru,2,24,33,2,powerplay,113,242.0,0.766,0.972,0.248,0.737,"A chasing pressure, E big ask, G high-scoring pitch, I set-batter/bounce-back"
+39657,Eshan Malinga,bowler,worst,2026-06-15,Sri Lanka in West Indies T20I Series 2026,West Indies,2,24,29,0,middle,95,146.0,0.297,0.609,-0.101,-0.431,"A chasing pressure, E big ask"
+39657,Eshan Malinga,bowler,worst,2026-05-03,IPL 2026,Kolkata Knight Riders,2,20,40,0,powerplay,107,152.0,0.247,0.0,-0.154,-0.315,I set-batter/bounce-back
+39657,Eshan Malinga,bowler,worst,2025-11-27,Pakistan T20I Tri-Series 2025,Pakistan,2,24,48,2,death,95,155.0,0.962,0.422,-0.14,-0.296,"A chasing pressure, D key moments, E big ask, I set-batter/bounce-back"
+47050,Shamar Joseph,bowler,best,2026-02-01,West Indies in South Africa T20I Series 2026,South Africa,2,12,23,1,middle,323,62.0,0.932,1.0,0.19,0.603,"A chasing pressure, F collapse and rebuild, G high-scoring pitch"
+47050,Shamar Joseph,bowler,best,2026-06-15,Sri Lanka in West Indies T20I Series 2026,Sri Lanka,1,24,32,5,death,89,,0.514,0.827,0.232,0.602,"B setting under pressure, F collapse and rebuild, I set-batter/bounce-back"
+47050,Shamar Joseph,bowler,best,2026-06-12,Sri Lanka in West Indies T20I Series 2026,Sri Lanka,1,24,27,5,death,89,,0.606,0.86,0.225,0.513,"B setting under pressure, D key moments, F collapse and rebuild, I set-batter/bounce-back"
+47050,Shamar Joseph,bowler,worst,2024-04-14,IPL 2024,Kolkata Knight Riders,2,24,40,0,middle,119,162.0,0.335,0.02,-0.324,-0.653,I set-batter/bounce-back
+47050,Shamar Joseph,bowler,worst,2024-11-10,England in West Indies T20I Series 2024,England,2,18,42,0,death,101,153.0,0.412,0.014,-0.296,-0.501,"G high-scoring pitch, I set-batter/bounce-back"
+47050,Shamar Joseph,bowler,worst,2024-05-26,South Africa in West Indies T20I Series [May 2024] 2024,South Africa,2,6,20,0,powerplay,99,168.0,0.724,0.532,-0.192,-0.456,no tagged scenario
+58134,Digvesh Rathi,bowler,best,2025-03-24,IPL 2025,Delhi Capitals,2,24,26,2,powerplay,107,198.0,0.69,0.694,0.474,0.974,"A chasing pressure, F collapse and rebuild, G high-scoring pitch"
+58134,Digvesh Rathi,bowler,best,2025-04-14,IPL 2025,Chennai Super Kings,2,24,21,1,middle,101,129.0,0.152,0.805,0.351,0.767,A chasing pressure
+58134,Digvesh Rathi,bowler,best,2026-05-07,IPL 2026,Royal Challengers Bengaluru,2,24,50,0,middle,647,168.0,0.957,1.0,0.292,0.702,"A chasing pressure, G high-scoring pitch, I set-batter/bounce-back"
+58134,Digvesh Rathi,bowler,worst,2026-05-23,IPL 2026,Punjab Kings,2,18,39,0,middle,95,154.0,0.635,0.088,-0.253,-0.437,"G high-scoring pitch, I set-batter/bounce-back"
+58134,Digvesh Rathi,bowler,worst,2026-04-26,IPL 2026,Kolkata Knight Riders,1,24,44,0,middle,89,,0.79,0.782,-0.073,-0.134,"B setting under pressure, F collapse and rebuild, I set-batter/bounce-back"
+58134,Digvesh Rathi,bowler,worst,2025-04-19,IPL 2025,Rajasthan Royals,2,24,30,0,middle,101,139.0,0.288,0.172,-0.102,-0.12,I set-batter/bounce-back
